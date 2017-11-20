@@ -8,7 +8,7 @@ The latest `LonelyLens.unitypackage` is available from the [releases](https://gi
 
 You can also clone and use the `headjack-dev/LonelyLens` git repository directly in a Unity project. 
 
-Inside, you find a shader, a C# script to enhance performance, and an example scene. You can configure the transformation using the `Angle` º fisheye  and `Width` sliders.
+Inside, you find a shader, a C# script to enhance performance, and an example scene. You can configure the transformation using the `Angle` and `Width` sliders.
 
 `Angle` is the FOV of the fisheye lens used to shoot the image, for example 250º or 180º.
 
